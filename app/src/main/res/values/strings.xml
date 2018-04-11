@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab2</string>
+
+    <!-- Facebook app id -->
+    <string name="facebook_app_id">608931799459080</string>
+    <string name="fb_login_protocol_scheme">fb608931799459080</string>
+</resources>
